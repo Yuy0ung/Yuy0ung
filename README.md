@@ -25,7 +25,7 @@
 
 ### 🤔More
 
-* 🛡️道格安全研究实验室( D0g3 ) 2023负责人
+* 🛡️道格安全研究实验室( D0g3 ) 2023级负责人
 * ⚔️山海关安全团队成员
 * 📫 contact me on QQ：MTA3NzIxMjA2MEBxcS5jb20=
 
