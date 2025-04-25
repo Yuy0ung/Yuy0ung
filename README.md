@@ -5,7 +5,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuy0ung)
 
   <div>
-    <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <a href="https://www.cnblogs.com/yuy0ung"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=Yuy0ung&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </div>
 
