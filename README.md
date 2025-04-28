@@ -2,7 +2,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuy0ung)
+![Yuy0ung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuy0ung)
 
   <div>
     <a href="https://www.cnblogs.com/yuy0ung"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
